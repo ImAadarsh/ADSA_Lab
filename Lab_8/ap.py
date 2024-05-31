@@ -57,3 +57,5 @@ if __name__ == "__main__":
     g.add_edge(2, 5)
     print("Articulation Points in the given graph:")
     g.AP()
+
+# write a program to     without using any module in python.
